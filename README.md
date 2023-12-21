@@ -1,4 +1,3 @@
-
 Привет каждому, кто нашёл этот сайт. Здесь будет немного информации обо мне, начнём! <a href='https://postimg.cc/3y1vYC6H' target='_blank'><img src='https://i.postimg.cc/JnVc3p5t/emoji.png' wigth="30" height="30" alt='милый эмоджи'/></a>
 
 ## Кто я?
